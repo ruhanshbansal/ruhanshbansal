@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruhanshbansal
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning mechanical engineering
+- 🌱 I’m currently doing my engineering degree
 - 📫 How to reach me : bansal.ruhansh@gmail.com
 - ⚡ Fun fact: potatoes and apples taste the same when you cant smell them
 
