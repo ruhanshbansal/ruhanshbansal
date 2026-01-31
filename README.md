@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently doing my engineering degree
 - 📫 How to reach me : bansal.ruhansh@gmail.com
-- ⚡ Fun fact: potatoes and apples taste the same when you cant smell them
 
 <!---
 ruhanshbansal/ruhanshbansal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
